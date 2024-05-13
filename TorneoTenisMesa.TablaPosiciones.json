@@ -1,0 +1,56 @@
+[{
+  "_id": 10001,
+  "equipo": 1,
+  "partidos_jugados": 3,
+  "partidos_ganados": 2,
+  "partidos_perdidos": 1
+},
+{
+  "_id": 10002,
+  "equipo": 2,
+  "partidos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+},
+{
+  "_id": 10003,
+  "equipo": 3,
+  "partidos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+},
+{
+  "_id": 10004,
+  "equipo": 4,
+  "partidos_jugados": 3,
+  "partidos_ganados": 2,
+  "partidos_perdidos": 1
+},
+{
+  "_id": 10005,
+  "equipo": 5,
+  "partidos_jugados": 3,
+  "partidos_ganados": 3,
+  "partidos_perdidos": 0
+},
+{
+  "_id": 10006,
+  "equipo": 6,
+  "partidos_jugados": 3,
+  "partidos_ganados": 2,
+  "partidos_perdidos": 1
+},
+{
+  "_id": 10007,
+  "equipo": 7,
+  "partidos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+},
+{
+  "_id": 10008,
+  "equipo": 8,
+  "partidos_jugados": 1,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "nombre": "Alcones",
+  "Jugadores": 1030444123,
+  "entrenador": 1034598745
+},
+{
+  "_id": 2,
+  "nombre": "Tigres",
+  "Jugadores": 1020344321,
+  "entrenador": 1026796573
+},
+{
+  "_id": 3,
+  "nombre": "Oni",
+  "Jugadores": 1031564778,
+  "entrenador": 55798335
+},
+{
+  "_id": 4,
+  "nombre": "Koi",
+  "Jugadores": 1031884987,
+  "entrenador": 56354735
+},
+{
+  "_id": 5,
+  "nombre": "Fenrir",
+  "Jugadores": 1027654654,
+  "entrenador": 1018459782
+},
+{
+  "_id": 6,
+  "nombre": "Snake",
+  "Jugadores": 1015232143,
+  "entrenador": 1032498128
+},
+{
+  "_id": 7,
+  "nombre": "Legend",
+  "Jugadores": 1034781355,
+  "entrenador": 56368764
+},
+{
+  "_id": 8,
+  "nombre": "Mental",
+  "Jugadores": 1023564575,
+  "entrenador": 55178332
+}]

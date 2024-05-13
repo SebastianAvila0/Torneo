@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "encuentro": 100,
+  "puntos_equipo_a": 11,
+  "puntos_equipo_b": 8
+},
+{
+  "_id": 2,
+  "encuentro": 101,
+  "puntos_equipo_a": 5,
+  "puntos_equipo_b": 11
+},
+{
+  "_id": 3,
+  "encuentro": 102,
+  "puntos_equipo_a": 13,
+  "puntos_equipo_b": 11
+},
+{
+  "_id": 4,
+  "encuentro": 103,
+  "puntos_equipo_a": 11,
+  "puntos_equipo_b": 9
+},
+{
+  "_id": 5,
+  "encuentro": 104,
+  "puntos_equipo_a": 7,
+  "puntos_equipo_b": 11
+},
+{
+  "_id": 6,
+  "encuentro": 105,
+  "puntos_equipo_a": 15,
+  "puntos_equipo_b": 13
+},
+{
+  "_id": 7,
+  "encuentro": 106,
+  "puntos_equipo_a": 10,
+  "puntos_equipo_b": 13
+},
+{
+  "_id": 8,
+  "encuentro": 107,
+  "puntos_equipo_a": 7,
+  "puntos_equipo_b": 11
+}]

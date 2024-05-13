@@ -1,0 +1,57 @@
+[{
+  "_id": 1030444123,
+  "nombre": "Sebastian Rojas",
+  "edad": 25,
+  "ciudad": "Bogota",
+  "equipo": 1
+},
+{
+  "_id": 1020344321,
+  "nombre": "Mateo Perez",
+  "edad": 28,
+  "ciudad": "Bogota",
+  "equipo": 2
+},
+{
+  "_id": 1031564778,
+  "nombre": "Alexandra Martinez",
+  "edad": 26,
+  "ciudad": "Neiva",
+  "equipo": 3
+},
+{
+  "_id": 1031884987,
+  "nombre": "Juan Rodriguez",
+  "edad": 25,
+  "ciudad": "Cartagena",
+  "equipo": 4
+},
+{
+  "_id": 1027654654,
+  "nombre": "Antony Sepulveda",
+  "edad": 28,
+  "ciudad": "Pasto",
+  "equipo": 5
+},
+{
+  "_id": 1015232143,
+  "nombre": "Alejandra Calderon",
+  "edad": 23,
+  "ciudad": "Bogota",
+  "equipo": 6
+},
+{
+  "_id": 1034781355,
+  "nombre": "David Ortiz",
+  "edad": 27,
+  "ciudad": "Bogota",
+  "equipo": 7
+},
+{
+  "_id": 1023564575,
+  "nombre": "Camilo Arenas",
+  "edad": 25,
+  "ciudad": "Medellin",
+  "equipo": 8
+}]
+
